@@ -1,8 +1,4 @@
-# ALX FrontEnd — JavaScript
-
-## Table of contents
-
-Will be added here ..
+# ALX FrontEnd — EcmaScript 6
 
 ## Contact Me
 
