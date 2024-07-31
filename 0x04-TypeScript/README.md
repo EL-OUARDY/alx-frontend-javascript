@@ -1,6 +1,6 @@
-# ALX FrontEnd — ES6 data manipulation
+# ALX FrontEnd — Typescript
 
-0x03. ES6 data manipulation
+0x04. Typescript
 
 ## Contact Me
 
