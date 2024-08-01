@@ -1,9 +1,9 @@
 /* eslint-disable @typescript-eslint/no-namespace */
 namespace Subjects {
   export class Subject {
-    teacher: Teacher;
+    teacher: Subjects.Teacher;
 
-    setTeacher(teacher: Teacher): void {
+    set setTeacher(teacher: Subjects.Teacher) {
       this.teacher = teacher;
     }
   }
