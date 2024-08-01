@@ -7,4 +7,4 @@ Will be added here ..
 ## Contact Me
 
 **Twitter:** https://twitter.com/_ELOUARDY \
-**Email:** ouadia@el-ouardy.com
+**Email:** ouadia@elouardy.com

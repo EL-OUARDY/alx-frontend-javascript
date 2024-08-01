@@ -96,4 +96,4 @@ function createUserId(id: string): UserId {
 ## Contact Me
 
 **Twitter:** https://twitter.com/_ELOUARDY \
-**Email:** ouadia@el-ouardy.com
+**Email:** ouadia@elouardy.com
